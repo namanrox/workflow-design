@@ -1,0 +1,9 @@
+.pagination {
+    display: inline-block;
+}
+
+.pagination li {
+    display: inline;
+    margin: 0 2px;
+    cursor: pointer;
+}
